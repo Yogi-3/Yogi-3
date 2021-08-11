@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript.
 - 🌱 I’m currently learning lots of things (react, js, crypto, cybersecurity).
 - 💞️ I’m looking to collaborate on new ideas and anything to talk!!😃
-- 📫 How to reach me at +91 8618608945
+- 📫 How to reach me at gachinmathyogi3@gmail.com
 
 <!---
 Yogi-3/Yogi-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
